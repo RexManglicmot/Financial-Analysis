@@ -1,2 +1,2 @@
 # Financial-Analysis
-please see jupyter
+Please see jupyter. Thank you.
